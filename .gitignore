@@ -1,5 +1,9 @@
-# .gitignore
 venv/
-*.h5
+__pycache__/
+*.pyc
+*.pyo
 *.pyd
-.vs/
+*.h5
+*.pkl
+.DS_Store
+*.log
